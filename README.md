@@ -1,2 +1,6 @@
 # Top-Movies-and-TV-Shows
-A web-based Python script which will display Top Movies and TV Shows based on IMDb rating in a local text file.
+A Web Based Python Script which will
+provide Top Movies and TV Shows based on IMDb Ranking in a Local
+Text File.
+
+This was achieved using Web Scraping.
