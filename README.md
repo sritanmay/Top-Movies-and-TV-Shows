@@ -4,3 +4,7 @@ provide Top Movies and TV Shows based on IMDb Ranking in a Local
 Text File.
 
 This was achieved using Web Scraping.
+
+![](CmdCapture.png)
+Output is stored in a file :
+![](OutputCapture.png)
