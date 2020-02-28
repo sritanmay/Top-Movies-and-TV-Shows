@@ -5,6 +5,6 @@ Text File.
 
 This was achieved using Web Scraping.
 
-![](CmdCapture.png)
+![Screenshot](CmdCapture.png)
 Output is stored in a file :
-![](OutputCapture.png)
+![Screenshot](OutputCapture.png)
